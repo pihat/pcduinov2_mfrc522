@@ -3,10 +3,9 @@
 #define uint unsigned int
 //data array maxium length
 #define MAX_LEN 16
-
-/////////////////////////////////////////////////////////
-//set the pin
-////////////////////////////////////////////////////////
+/*
+ * set the pins
+ */
 #define  _CS  10
 #define  _SCK  13
 #define  _MOSI 11
