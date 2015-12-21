@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: digital.c
     > Author: Guoger
-    > Mail: pingger.wu@gmail.com 
+    > Mail: 505917699@qq.com
     > Created Time: Fri Jan  1 00:14:17 2015
  ************************************************************************/
 #include <stdio.h>
